@@ -1,0 +1,51 @@
+baseurl = "http://www.premioartecultura.it"
+# theme = "tablemania"
+theme = "gohugo-theme-ananke"
+[menu]
+  [[menu.archive]]
+    identifier = "2015"
+    name = "2015"
+    url = "/2015/"
+  [[menu.archive]]
+    identifier = "2013"
+    name = "2013"
+    url = "/2013/"
+  [[menu.archive]]
+    identifier = "2011"
+     name = "2011"
+     url = "/2011/"
+  [[menu.archive]]
+    identifier = "2009"
+    name = "2009"
+    url = "/2009/"
+  [[menu.archive]]
+    identifier = "2008"
+    name = "2008"
+    url = "/2008/"
+  [[menu.archive]]
+    identifier = "2007"
+    name = "2007"
+    url = "/2007/"
+  [[menu.archive]]
+    identifier = "2006"
+    name = "2006"
+    url = "/2006/"
+  [[menu.archive]]
+    identifier = "2005"
+    name = "2005"
+    url = "/2005/"
+  [[menu.archive]]
+    identifier = "2004"
+    name = "2004"
+    url = "/2004/"
+  [[menu.archive]]
+    identifier = "2003"
+    name = "2003"
+    url = "/2003/"
+# menu.main is defined directly in pages, based on year info in date matter
+[permalinks]
+  top_level = "/:slug/"
+  intro = "/:year/"
+  # hmmmm, add something defining to front matter? like title = Vincitori??
+  winnner = "/:year/:title"  # slug?
+title = "Premio Arte e Cultura 'La Bagnaia'"

@@ -1,0 +1,16 @@
+home: 
+    / (alias to /2018 [intro])
+top_level menu:
+ /bio
+ /come raggiungerci
+ /contatti
+archive menu /2015 (intro)
+             /2016 (intro)
+             ...
+yearly stuff, other than intro
+2018/regolamento
+    /comitato
+    /messaggi
+    /patrocini
+    /vincitore
+    /cerimonia (the goddam gallery)
