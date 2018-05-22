@@ -17,12 +17,12 @@
       {{ end }}
       {{ partial "social-follow.html" . }}
     </div>
+    {{ $year := .Date.Format "2006"}}
+    {{ $nav_menu := index .Site.Menus $year}}
     <div class="flex-l items-center" id="nav-menu">
-    <!--access by year, feasible? -->
-    {{ $year := now.Format "2006"}}
-      {{ if .Site.Menus.nav_menu }}
+      {{ if $nav_menu }}
         <ul class="pl0 mr3">
-          {{ range .Site.Menus.archive }}
+          {{ range $nav_menu }}
           <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
               {{ .Name }}
