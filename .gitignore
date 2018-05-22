@@ -1,4 +1,6 @@
 *.sw*
-themes
-archive
-public
+public/
+themes/
+archive/
+bucket_policy.json
+s3website.json

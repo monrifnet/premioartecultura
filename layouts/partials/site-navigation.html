@@ -18,7 +18,7 @@
       {{ partial "social-follow.html" . }}
     </div>
     {{ $year := .Date.Format "2006"}}
-    {{ $nav_menu := index .Site.Menus $year}}
+    {{ $nav_menu := index .Site.Menus $year }}
     <div class="flex-l items-center" id="nav-menu">
       {{ if $nav_menu }}
         <ul class="pl0 mr3">

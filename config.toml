@@ -3,9 +3,12 @@ baseurl = "http://www.premioartecultura.it"
 theme = "gohugo-theme-ananke"
 title = "Premio Arte e Cultura 'La Bagnaia'"
 [permalinks]
-  winner = "/:year/:slug/"
-  intro = "/:year/"
+  page = "/:year/:slug/"
 [menu]
+  [[menu.archive]]
+    identifier = "2018"
+    name = "2018"
+    url = "/2018/"
   [[menu.archive]]
     identifier = "2015"
     name = "2015"
