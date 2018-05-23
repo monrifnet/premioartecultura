@@ -1,0 +1,11 @@
+<div class="table-cell" id="archive_menu">
+    <div class="container">
+        {{ if .Site.Menus.archive }}
+        <ul>
+	        {{ range .Site.Menus.archive.ByName.Reverse }}
+	        <li><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+	        {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+</div>

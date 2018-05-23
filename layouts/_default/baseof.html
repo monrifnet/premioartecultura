@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end}}</title>
+        {{ .Hugo.Generator }}
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body background="/img/background.jpg" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+        <div class="table centre">
+            <div class="tbody">
+	            {{ partial "header.html" . }}
+		        <div class="table-row">
+		             {{ partial "archive_menu.html" . }}
+		             {{ partial "nav_menu.html" . }}
+		             {{ partial "content.html" . }}
+	            </div>
+	            {{ partial "footer.html" . }}
+	        </div>
+        </div>
+    </body>
+</html>

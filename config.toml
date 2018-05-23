@@ -1,6 +1,4 @@
 baseurl = "http://www.premioartecultura.it"
-# theme = "tablemania"
-theme = "gohugo-theme-ananke"
 title = "Premio Arte e Cultura 'La Bagnaia'"
 [permalinks]
   page = "/:year/:slug/"
@@ -49,4 +47,3 @@ title = "Premio Arte e Cultura 'La Bagnaia'"
     identifier = "2003"
     name = "2003"
     url = "/2003/"
-

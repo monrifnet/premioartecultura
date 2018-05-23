@@ -1,6 +1,6 @@
 ## Basic usage
 
-* Add content by running `hugo new page/{$YEAR}/{$PAGE_NAME}.md`, correct date and title in frontmatter if necessary;
+* Add content by running `hugo new page/{$YEAR}/{$PAGE_NAME}.md`, correct date, title and menu weight in frontmatter if necessary.
 * Edit single content date to correctly annotate it as archive and generate menus (see 2015 example);
 * Edit main config.toml to add to archive menu, change default metas.
 

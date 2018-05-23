@@ -1,0 +1,13 @@
+<div class="table-cell" id="nav_menu">
+    <div class="container">
+        {{ $year := .Date.Format "2006"}}
+        {{ $nav_menu := index .Site.Menus $year }}
+        {{ if $nav_menu }}
+        <ul>
+	        {{ range $nav_menu.ByName }}
+	        <li><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+	        {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+</div>
