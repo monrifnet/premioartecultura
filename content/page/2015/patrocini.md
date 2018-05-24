@@ -7,7 +7,7 @@ weight = 4
 
 ## PREMIO ARTE E CULTURA EDIZIONE 2015
 
-###Patrocini
+### Patrocini
 
 L’"Associazione Culturale Attilio Monti” per la 9a Edizione del “Premio Arte e Cultura - La Bagnaia”
 ha richiesto e ottenuto i Patrocini di:
