@@ -8,4 +8,13 @@
         </ul>
         {{ end }}
     </div>
+    <div class="container">
+        {{ if .Site.Menus.extra }}
+        <ul>
+            {{ range .Site.Menus.extra.ByName }}
+            <li><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
 </div>

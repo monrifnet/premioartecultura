@@ -21,6 +21,16 @@ table {
     width: 100%;
 }
 
+a:link {
+    text-decoration: none;
+    color: black;
+    background: rgba(255, 206, 51, 0.1);
+}
+
+figure {
+    margin: 0;
+}
+
 div.table {
     display: table;
 }
@@ -53,6 +63,7 @@ div.table > div.tbody > div.table-row > div.table-cell > div.container {
     padding-bottom: 0px;
     padding-left: 10px;
     padding-right: 10px;
+    vertical-align: top;
 }
 
 div.centre {
@@ -64,8 +75,24 @@ div.centre {
 
 #archive_menu {
     background-color:#FFCC00;
+    background-image: url("/img/archive_background.jpg");
+    background-repeat: repeat-y;
     width: 161px;
 } 
+
+div.container > ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+div.container > ul li {
+    font-size: 90%;
+    line-height: 1.6;
+    list-style-type: none;
+    margin: 5px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
 
 #nav_menu {
     background-color:#E4E4E4;
@@ -74,7 +101,7 @@ div.centre {
 
 #content {
     background-color:#FFFFFF;
-    width: 467px;
+    width: 477px;
 }
 
 .bodystyle {

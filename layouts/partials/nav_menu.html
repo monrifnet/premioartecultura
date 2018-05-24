@@ -4,7 +4,7 @@
         {{ $nav_menu := index .Site.Menus $year }}
         {{ if $nav_menu }}
         <ul>
-	        {{ range $nav_menu.ByName }}
+	        {{ range $nav_menu.ByWeight }}
 	        <li><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></li>
 	        {{ end }}
         </ul>

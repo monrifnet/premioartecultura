@@ -1,12 +1,8 @@
 baseurl = "http://www.premioartecultura.it"
 title = "Premio Arte e Cultura 'La Bagnaia'"
 [permalinks]
-  page = "/:year/:slug/"
+  page = "/:year/:title/"
 [menu]
-  [[menu.archive]]
-    identifier = "2018"
-    name = "2018"
-    url = "/2018/"
   [[menu.archive]]
     identifier = "2015"
     name = "2015"
@@ -47,3 +43,15 @@ title = "Premio Arte e Cultura 'La Bagnaia'"
     identifier = "2003"
     name = "2003"
     url = "/2003/"
+  [[menu.extra]]
+    identifier = "attiliomonti" 
+    name = "Attilio Monti" 
+    url = "/attilio_monti/" 
+  [[menu.extra]]
+    identifier = "comeragginugerci" 
+    name = "Come Raggiungerci"
+    url = "/come_raggiungerci/" 
+  [[menu.extra]] 
+    identifier = "contatti"
+    name = "Contatti"
+    url = "/contatti/"
