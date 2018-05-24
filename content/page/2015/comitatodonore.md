@@ -10,13 +10,8 @@ weight = 3
 
 Maria Luisa Monti Riffeser- Presidente Poligrafici Editoriale
 
-Marcello Pera – Presidente Senato della Repubblica
+Andrea Riffeser Monti – Presidente Monrif Group
 
-Pier Ferdinando Casini – Presidente Camera dei Deputati
+Andrea Ceccherini – Presidente Osservatorio Permanente Giovani – Editori
 
-Silvio Berlusconi – Presidente Consiglio dei Ministri
-
-Giuliano Urbani – Ministro per i Beni e le Attività Culturali
-
-Maurizio Gasparri – Ministro delle delle Comunicazioni
-
+Pietro Grasso – Senato della Repubblica

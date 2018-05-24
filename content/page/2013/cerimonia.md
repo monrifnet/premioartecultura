@@ -1,0 +1,15 @@
++++
+title = "Cerimonia"
+date = 2013-05-24T10:39:02+02:00
+[menu.2013]
+weight = 7
++++
+## PREMIO ARTE E CULTURA EDIZIONE 2013
+
+### Cerimonia
+
+**Premio Attilio Monti a Marcegaglia «Emma, imprenditrice del fare»**
+
+Marisa Monti Riffeser consegna il riconoscimento: «È l’ora di agire»
+
+«OGGI tutti dicono io farò, io attuerò, io ho il sistema. Tutti parlano, ma alle enunciazioni non seguono mai i fatti. Ma ora è il tempo del fare. Concretamente». Marisa Monti Riffeser, presidente della Poligrafici Editoriale, è un’imprenditrice dinamica. Abituata a fare. Come le ha insegnato il padre, Attilio Monti. Per questo nel consegnare il Premio Arte e Cultura-La Bagnaia, dedicato proprio al padre, non risparmia, con la franchezza che la contraddistingue, una ‘tirata d’orecchie’ alla classe politica. «Bisogna che il Paese apra finalmente le porte al rinnovamento — chiosa — e che tutta questa burocrazia che rallenta e impedisce lo sviluppo sia spazzata via. Una volta per tutte». E la passione che ci mette riscuote un applauso convinto e caloroso della platea dei giovani che partecipano al convegno ‘Crescere tra le righe’ che si svolge nel Borgo La Bagnaia, tanto amato dal cavalier Monti e che lei, da 12 anni, ha ricostruito. «Con passione e tanti sacrifici — afferma — affinché rimanga e perché il tempo non la distrugga. Per le future generazioni». In quel fil rouge che da anni lega l’Associazione Culturale Attilio Monti e l’Osservatorio Permanente Giovani-Editori: i giovani. «UNICI e veri protagonisti di tutte le edizioni del Premio — spiega il direttore di Qn, Giovanni Morandi — i giovani rappresentano in questo contesto, così come nella vita reale, il futuro, la speranza nonché la conoscenza vecchia e nuova. Un’esaltazione, dunque, delle nuove generazioni senza mai però dimenticare una figura peculiare del passato, ma pur sempre viva, a cui il Premio Arte e Cultura – La Bagnaia si è ispirato: il cavaliere Attilio Monti». Già Attilio Monti: editore, imprenditore ma «soprattutto l’uomo che ha saputo coniugare capacità industriali e profonda sensibilità civile e sociale», sottolinea nel ritirare il premio, dalle mani di Marisa Monti Riffeser, l’ex presidente di Confindustria Emma Marcegaglia. È lei, infatti, la vincitrice dell’ottava edizione del Premio che, come nelle precedenti edizioni, si fregia del patrocinio del Senato della Repubblica, della Camera dei Deputati, della Presidenza del Consiglio dei Ministri, dei Ministeri degli Affari Esteri, per i Beni e le Attività Culturali, dello Sviluppo Economico e del Lavoro, nonché della Medaglia della Presidenza della Repubblica che il presidente Giorgio Napolitano ha voluto destinare al vincitore dell’ottava edizione. Un premio assegnato ad Emma Marcegaglia «in omaggio — spiega il direttore Morandi — alla strada finora percorsa, volta ad essere un esempio del fare, quale connubio di sviluppo imprenditoriale e della nazione, che le ha permesso di raggiungere il prestigioso obiettivo di essere il primo imprenditore italiano a guida dei colleghi europei, portatrice di un messaggio positivo per il nostro Paese e per la sua ripresa». 

@@ -2,7 +2,7 @@
     <div class="container">
         {{ if .Site.Menus.archive }}
         <ul>
-	        {{ range .Site.Menus.archive.ByName.Reverse }}
+	        {{ range .Site.Menus.archive.ByWeight }}
 	        <li><a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a></li>
 	        {{ end }}
         </ul>
