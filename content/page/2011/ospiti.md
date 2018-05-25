@@ -2,7 +2,7 @@
 title = "Ospiti"
 date = 2011-05-24T10:39:02+02:00
 [menu.2011]
-weight = 7
+weight = 6
 +++
 ## PREMIO ARTE E CULTURA EDIZIONE 2011
 
