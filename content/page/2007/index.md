@@ -1,9 +1,9 @@
 +++
-date = 2011-05-22T12:59:38+02:00
+date = 2007-05-22T12:59:38+02:00
 +++
 ### ASSOCIAZIONE CULTURALE ATTILIO MONTI
 
-<img src="/img/pac2011.jpg" alt="Marisa Monti Riffeser e l'ambasciatore della Repubblica Popolare Cinese in Iralia, Ding Wei" width="420"/>
+<img src="/img/pac2008.jpg" width="420"/>
 
 L’Associazione Culturale Attilio Monti non ha scopo di lucro e persegue scopi culturali.
 In particolare l’Associazione ha per oggetto la promozione di attività culturali legate al mondo dell’arte,
