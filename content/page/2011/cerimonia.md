@@ -8,7 +8,7 @@ weight = 8
 
 ### Cerimonia
 
-**remio Arte e Cultura La Bagnaia all'ambasciatore cinese Ding Wei**
+**Premio Arte e Cultura La Bagnaia all'ambasciatore cinese Ding Wei**
 
 Borgo La Bagnaia, 13 maggio 2011 - L'Associazione Culturale Attilio Monti ha proclamato  l'ambasciatore della Repubblica popolare cinese in Italia Ding Wei, vincitore de “il Premio Arte e Cultura La Bagnaia”, ospitato  durante la settima edizione del convegno 'Crescere tra le righe'.
 "Promotore indiscusso dello scambio interculturale tra cinesi e italiani – si legge nella motivazione -, si è da sempre prodigato per rendere i giovani cinesi 'ambasciatori di amicizia' tra i popoli, consapevole del fatto che molti conflitti sono stati causati dalla mancanza di conoscenza reciproca tra le culture. Poiché ritiene inoltre che il futuro dipenda dai giovani, l'ambasciatore lavora per intensificarne gli scambi, per costruirne uno migliore, più pacifico e armonioso". A consegnare il riconoscimento Marisa Monti Riffeser, presidente di Poligrafici Editoriale e dell’Associazione Culturale Attilio Monti.
