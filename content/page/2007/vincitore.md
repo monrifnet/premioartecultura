@@ -4,20 +4,22 @@ date = 2007-05-24T10:39:17+02:00
 [menu.2007]
 weight = 7
 +++
-##  PREMIO ARTE E CULTURA EDIZIONE 2011
+##  PREMIO ARTE E CULTURA EDIZIONE 2007
 
 ### Vincitore
 
-**Premio Arte e Cultura La Bagnaia all'ambasciatore cinese Ding Wei**
+<img src="/img/vincitore_2007_1.jpg" width="420">
 
-Marisa Monti Riffeser, presidente di Poligrafici Editoriale, ha consegnato il prestigioso riconoscimento al diplomatico "promotore indiscusso dello scambio interculturale tra cinesi e italiani"
+Quando la notizia è donna
+Vince Karen Elliott House
+La giornalista del Wall Street Journal premiata da Marisa Monti Riffeser. Erano candidate anche Lilli Gruber e Sylvie Kaufmann di Le Monde. Un riconoscimento anche al ministro Giovanna Melandri
 
-Borgo La Bagnaia, 13 maggio 2011 - Ospitato, durante la settima edizione del convegno 'Crescere tra le righe', il Premio Arte e Cultura La Bagnaia.
-L'Associazione Culturale Attilio Monti ha proclamato vincitore l'ambasciatore della Repubblica popolare cinese in Italia, Ding Wei. "Promotore indiscusso dello scambio interculturale tra cinesi e italiani – si legge nella motivazione -, si è da sempre prodigato per rendere i giovani cinesi 'ambasciatori di amicizia' tra i popoli, consapevole del fatto che molti conflitti sono stati causati dalla mancanza di conoscenza reciproca tra le culture.
+La Bagnaia, 25 maggio 2007 – E’ nel segno delle donne il Premio Arte e cultura La Bagnaia 2007, assegnato dalla signora Marisa Monti Riffeser per ricordare il padre Attilio Monti, editore e imprenditore che seppe coniugare capacità industriali e profonda sensibilità civile e sociale. “Negli anni passati ho premiato diversi uomini – ha spiegato la signora Monti Riffeser – che si sono distinti nel loro campo. Oggi ho pensato di premiare una donna, visto che le donne nel mondo sono diventate grande protagoniste, e riescono, se non a battere gli uomini, la lottare per arrivare a questo obiettivo, come accade in Francia, in Germania, negli Stati Uniti e anche in Italia. Ho voluto allargare il premio internazionalmente, rivolgendomi a giornaliste che si sono distinte nei vari appuntamenti di guerra per il loro coraggio nell’affrontare il pericolo e raccontarci la realtà” (oltre alla vincitrice, erano candidate Lilli Gruber e Sylvie Kaufmann, caporedattore di Le Monde, ndr).
 
-Poiché ritiene inoltre che il futuro dipenda dai giovani, l'ambasciatore lavora per intensificarne gli scambi, per costruirne uno migliore, più pacifico e armonioso". A consegnare il riconoscimento Marisa Monti Riffeser, presidente di Poligrafici Editoriale e dell’Associazione Culturale Attilio Monti.
-"Il nostro gruppo editoriale sta cercando di offrire ai lettori giornali che diano il segno di un'Italia migliore. Ed e' per questo che vengono preparati sempre in modo onesto e leale. Onesta' e lealta' sono, del resto, i valori che ha insegnato a tutti noi il Cavaliere Attilio Monti".
+Il premio è stato assegnato a Karen Elliott House, del Wall Street Journal, che l’ha ricevuto con grande emozione: “Sono profondamente onorata di aver vinto – ha detto ringraziando la signora Monti Riffeser -. E apprezzo molto l’enfasi che questo premio ha messo sulle donne nel mondo del giornalismo. Andare in giro per il mondo e fare domande, chiedere perché le cose accadono è stato un enorme privilegio nei miei 32 anni al WSJ.”
 
-E' quanto ha affermato Marisa Monti Riffeser. Istituito ormai otto anni fa dall'Associazione Attilio Monti, il Premio – si legge nel comunicato - in tutti questi anni "è rimasto fedele al duplice obiettivo di ricordare l'editore, l'imprenditore, ma soprattutto l'uomo che ha saputo coniugare capacità industriali e profonda sensibilità civile e sociale, gettando però sempre uno sguardo alla modernità e alla cultura in tutte le sue sfaccettature".
+La padrona di casa ha poi consegnato un altro riconoscimento, la targa del presidente della Repubblica al ministro Giovanna Melandri, una donna che, come ha spiegato la signora Monti Riffeser, “Ha voluto farsi strada nel nostro paese in politica e ha assunto l’impegno di aiutare le donne a conquistare posizioni che tutte quante vorrebbero”
 
-Il Premio, come nelle precedenti edizioni, si fregia del patrocinio del Senato, della Camera dei deputati, della Presidenza del Consiglio dei Ministri, dei Misteri degli Affari esteri, dello Sviluppo economico e dei Beni e delle Attività culturali, nonché del Dipartimento della Gioventù. Il presidente della Repubblica Giorgio Napolitano ha voluto destinare al vincitore di questa edizione la Medaglia della presidenza della Repubblica.
+<img src="/img/vincitore_2007_2.jpg" width="420">
+
+“Vorrei estendere la motivazione di questo premio – ha detto il ministro accettando con emozione la targa e rivolgendosi ai ragazzi in sala - . Credo che in questo paese bisogna continuare a battersi per il riconoscimento del talento, della competenza, della concretezza delle donne nella società italiana. Ma bisogna battersi ugualmente per il riconoscimento delle stesse qualità dei giovani e delle ragazze italiane. E col ministro dedicato ai giovani ho l’opportunità di inserire nell’agenda del governo questi temi. Per questo vorrei allargare le motivazioni del premio, aggiungendo all’impegno per le donne anche quello per i giovani.”
