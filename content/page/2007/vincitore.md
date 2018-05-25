@@ -1,7 +1,7 @@
 +++
 title = "Vincitore"
-date = 2011-05-24T10:39:17+02:00
-[menu.2011]
+date = 2007-05-24T10:39:17+02:00
+[menu.2007]
 weight = 7
 +++
 ##  PREMIO ARTE E CULTURA EDIZIONE 2011
