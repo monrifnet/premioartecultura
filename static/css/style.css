@@ -24,8 +24,12 @@ table {
 a:link {
     text-decoration: none;
     color: black;
-    background: rgba(255, 206, 51, 0.1);
+    visited:
 }
+
+a:visited {color:black;}  /* visited link */
+a:hover {color:black;}  /* mouse over link */
+a:active {color:black;}  /* selected link */
 
 figure {
     margin: 0;
