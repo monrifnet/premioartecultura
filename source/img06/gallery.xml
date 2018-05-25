@@ -1,0 +1,181 @@
+<!-- Copyright 2006 - 05 TUFaT.com, All Rights Reserved. -->
+<gallery 
+	galleryname="2006" 
+	layout="1" 
+	popuplink="0"
+	popuplinktext="Clicca per ingrandire l'immagine"
+	popuplinkfont="Verdana"
+	smoothscroll="1" 
+	speedsmoothness="0" 
+	scrollwhenclose="0" 
+	maxspeed="10" 
+	picbgcolor="0x84001E" 
+	bgcolor="0xCC9900" 
+	pnlcolor="0xCC9900" 
+	thumbloadbarcolor="0x666666" 
+	captionbgcolor="0xD7D786" 
+	captioncolor="0x333333" 
+	titlecolor="0xffffff" 
+	pagebtncolor="0xffffff" 
+	animpagebtns="1" 
+	showcaption="1" 
+	showselected="1" 
+	selectioncolor="0xff0000" 
+	roundrect="0" 
+	roundpix="0" 
+	showprintbtn="1" 
+	showzoombtns="1"
+	zoomincrement="10"
+	maxzoom="4"
+	loadthumbsatonce="0" 
+	thumbloaddelay="150" 
+	drawshadows="0" 
+	shadowwidth="0" 
+	shadowcolor="0xD7D786" 
+	shadowalpha="0"
+	imgtransition="2"
+	autoresize="1"
+	thumbresize="1"
+	slideshow="1"
+	slideshowdelay="15"
+	halign="center"
+	valign="bottom"
+	hmargin="0"
+	thumbpadding1="10"
+	thumbpadding2="10"
+	>
+	
+	<image thumb="img06/01.jpg">img06/01.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/01.jpg</imageurl>
+	<image thumb="img06/02.jpg">img06/02.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/02.jpg</imageurl>
+	<image thumb="img06/03.jpg">img06/03.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/03.jpg</imageurl>
+<image thumb="img06/04.jpg">img06/04.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/04.jpg</imageurl>
+	<image thumb="img06/05.jpg">img06/05.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/05.jpg</imageurl>
+	<image thumb="img06/06.jpg">img06/06.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/06.jpg</imageurl>
+	<image thumb="img06/07.jpg">img06/07.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/07.jpg</imageurl>
+	<image thumb="img06/08.jpg">img06/08.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/08.jpg</imageurl>
+	<image thumb="img06/09.jpg">img06/09.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/09.jpg</imageurl>
+	<image thumb="img06/10.jpg">img06/10.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/10.jpg</imageurl>
+	<image thumb="img06/11.jpg">img06/11.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/11.jpg</imageurl>
+	<image thumb="img06/12.jpg">img06/12.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/12.jpg</imageurl>
+	<image thumb="img06/13.jpg">img06/13.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/13.jpg</imageurl>
+	<image thumb="img06/14.jpg">14.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/14.jpg</imageurl>
+	<image thumb="img06/15.jpg">img06/15.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/15.jpg</imageurl>
+	<image thumb="img06/16.jpg">img06/16.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/16.jpg</imageurl>
+	<image thumb="img06/17.jpg">img06/17.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/17.jpg</imageurl>
+	<image thumb="img06/18.jpg">img06/18.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/18.jpg</imageurl>
+	<image thumb="img06/19.jpg">img06/19.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/19.jpg</imageurl>
+	<image thumb="img06/20.jpg">img06/20.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/20.jpg</imageurl>
+	<image thumb="img06/21.jpg">img06/21.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/21.jpg</imageurl>
+	<image thumb="img06/22.jpg">img06/22.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/22.jpg</imageurl>
+	<image thumb="img06/23.jpg">img06/23.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/23.jpg</imageurl>
+	<image thumb="img06/24.jpg">img06/24.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/24.jpg</imageurl>
+	<image thumb="img06/25.jpg">img06/25.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/25.jpg</imageurl>
+	<image thumb="img06/26.jpg">img06/26.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/26.jpg</imageurl>
+	<image thumb="img06/27.jpg">img06/27.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/27.jpg</imageurl>
+	<image thumb="img06/28.jpg">img06/28.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/28.jpg</imageurl>
+	<image thumb="img06/29.jpg">img06/29.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/29.jpg</imageurl>
+	<image thumb="img06/30.jpg">img06/30.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/30.jpg</imageurl>
+	<image thumb="img06/31.jpg">img06/31.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/31.jpg</imageurl>
+	<image thumb="img06/32.jpg">img06/32.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/32.jpg</imageurl>
+	<image thumb="img06/33.jpg">img06/33.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/33.jpg</imageurl>
+	<image thumb="img06/34.jpg">img06/34.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/34.jpg</imageurl>
+	<image thumb="img06/35.jpg">img06/35.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/35.jpg</imageurl>
+	<image thumb="img06/36.jpg">img06/36.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/36.jpg</imageurl>
+	<image thumb="img06/37.jpg">img06/37.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/37.jpg</imageurl>
+	<image thumb="img06/38.jpg">img06/38.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/38.jpg</imageurl>
+	<image thumb="img06/39.jpg">img06/39.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/39.jpg</imageurl>
+	<image thumb="img06/40.jpg">img06/40.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/40.jpg</imageurl>
+	<image thumb="img06/41.jpg">img06/41.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/41.jpg</imageurl>
+	<image thumb="img06/41.jpg">img06/41.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/41.jpg</imageurl>
+	<image thumb="img06/41.jpg">img06/41.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2006</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img06/41.jpg</imageurl>
+
+
+	
+
+</gallery>

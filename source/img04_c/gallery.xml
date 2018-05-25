@@ -1,0 +1,103 @@
+<!-- Copyright 2004 - 05 TUFaT.com, All Rights Reserved. -->
+<gallery 
+	galleryname="2004" 
+	layout="1" 
+	popuplink="0"
+	popuplinktext="Clicca per ingrandire l'immagine"
+	popuplinkfont="Verdana"
+	smoothscroll="1" 
+	speedsmoothness="0" 
+	scrollwhenclose="0" 
+	maxspeed="10" 
+	picbgcolor="0x84001E" 
+	bgcolor="0xCC9900" 
+	pnlcolor="0xCC9900" 
+	thumbloadbarcolor="0x666666" 
+	captionbgcolor="0xD7D786" 
+	captioncolor="0x333333" 
+	titlecolor="0xffffff" 
+	pagebtncolor="0xffffff" 
+	animpagebtns="1" 
+	showcaption="1" 
+	showselected="1" 
+	selectioncolor="0xff0000" 
+	roundrect="0" 
+	roundpix="0" 
+	showprintbtn="1" 
+	showzoombtns="1"
+	zoomincrement="10"
+	maxzoom="4"
+	loadthumbsatonce="0" 
+	thumbloaddelay="150" 
+	drawshadows="0" 
+	shadowwidth="0" 
+	shadowcolor="0xD7D786" 
+	shadowalpha="0"
+	imgtransition="2"
+	autoresize="1"
+	thumbresize="1"
+	slideshow="1"
+	slideshowdelay="15"
+	halign="center"
+	valign="bottom"
+	hmargin="0"
+	thumbpadding1="10"
+	thumbpadding2="10"
+	>
+	
+	<image thumb="img04_c/01.jpg">img04_c/01.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/01.jpg</imageurl>
+	<image thumb="img04_c/02.jpg">img04_c/02.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/02.jpg</imageurl>
+	<image thumb="img04_c/03.jpg">img04_c/03.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/03.jpg</imageurl>
+<image thumb="img04_c/04.jpg">img04_c/04.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/04.jpg</imageurl>
+	<image thumb="img04_c/05.jpg">img04_c/05.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/05.jpg</imageurl>
+	<image thumb="img04_c/06.jpg">img04_c/06.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/06.jpg</imageurl>
+	<image thumb="img04_c/07.jpg">img04_c/07.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/07.jpg</imageurl>
+	<image thumb="img04_c/08.jpg">img04_c/08.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/08.jpg</imageurl>
+	<image thumb="img04_c/09.jpg">img04_c/09.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/09.jpg</imageurl>
+	<image thumb="img04_c/10.jpg">img04_c/10.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/10.jpg</imageurl>
+	<image thumb="img04_c/11.jpg">img04_c/11.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/11.jpg</imageurl>
+	<image thumb="img04_c/12.jpg">img04_c/12.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/12.jpg</imageurl>
+	<image thumb="img04_c/13.jpg">img04_c/13.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/13.jpg</imageurl>
+	<image thumb="img04_c/14.jpg">14.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/14.jpg</imageurl>
+	<image thumb="img04_c/15.jpg">img04_c/15.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/15.jpg</imageurl>
+	<image thumb="img04_c/16.jpg">img04_c/16.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/16.jpg</imageurl>
+	<image thumb="img04_c/17.jpg">img04_c/17.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/17.jpg</imageurl>
+	<image thumb="img04_c/18.jpg">img04_c/18.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2004</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img04_c/18.jpg</imageurl>
+
+</gallery>

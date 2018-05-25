@@ -1,0 +1,172 @@
+<!-- Copyright 2011 - 05 TUFaT.com, All Rights Reserved. -->
+<gallery 
+	galleryname="2011" 
+	layout="1" 
+	popuplink="0"
+	popuplinktext="Clicca per ingrandire l'immagine"
+	popuplinkfont="Verdana"
+	smoothscroll="1" 
+	speedsmoothness="0" 
+	scrollwhenclose="0" 
+	maxspeed="10" 
+	picbgcolor="0x84001E" 
+	bgcolor="0xCC9900" 
+	pnlcolor="0xCC9900" 
+	thumbloadbarcolor="0x666666" 
+	captionbgcolor="0xD7D786" 
+	captioncolor="0x333333" 
+	titlecolor="0xffffff" 
+	pagebtncolor="0xffffff" 
+	animpagebtns="1" 
+	showcaption="1" 
+	showselected="1" 
+	selectioncolor="0xff0000" 
+	roundrect="0" 
+	roundpix="0" 
+	showprintbtn="1" 
+	showzoombtns="1"
+	zoomincrement="10"
+	maxzoom="4"
+	loadthumbsatonce="0" 
+	thumbloaddelay="150" 
+	drawshadows="0" 
+	shadowwidth="0" 
+	shadowcolor="0xD7D786" 
+	shadowalpha="0"
+	imgtransition="2"
+	autoresize="1"
+	thumbresize="1"
+	slideshow="1"
+	slideshowdelay="15"
+	halign="center"
+	valign="bottom"
+	hmargin="0"
+	thumbpadding1="10"
+	thumbpadding2="10"
+	>
+	
+	<image thumb="img11_c/01.jpg">img11_c/01.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/01.jpg</imageurl>
+	<image thumb="img11_c/02.jpg">img11_c/02.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/02.jpg</imageurl>
+	<image thumb="img11_c/03.jpg">img11_c/03.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/03.jpg</imageurl>
+<image thumb="img11_c/04.jpg">img11_c/04.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/04.jpg</imageurl>
+	<image thumb="img11_c/05.jpg">img11_c/05.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/05.jpg</imageurl>
+	<image thumb="img11_c/06.jpg">img11_c/06.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/06.jpg</imageurl>
+	<image thumb="img11_c/07.jpg">img11_c/07.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/07.jpg</imageurl>
+	<image thumb="img11_c/08.jpg">img11_c/08.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/08.jpg</imageurl>
+	<image thumb="img11_c/09.jpg">img11_c/09.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/09.jpg</imageurl>
+	<image thumb="img11_c/10.jpg">img11_c/10.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/10.jpg</imageurl>
+	<image thumb="img11_c/11.jpg">img11_c/11.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/11.jpg</imageurl>
+	<image thumb="img11_c/12.jpg">img11_c/12.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/12.jpg</imageurl>
+	<image thumb="img11_c/13.jpg">img11_c/13.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/13.jpg</imageurl>
+	<image thumb="img11_c/14.jpg">14.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/14.jpg</imageurl>
+	<image thumb="img11_c/15.jpg">img11_c/15.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/15.jpg</imageurl>
+	<image thumb="img11_c/16.jpg">img11_c/16.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/16.jpg</imageurl>
+	<image thumb="img11_c/17.jpg">img11_c/17.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/17.jpg</imageurl>
+	<image thumb="img11_c/18.jpg">img11_c/18.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/18.jpg</imageurl>
+	<image thumb="img11_c/20.jpg">img11_c/20.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/20.jpg</imageurl>
+	<image thumb="img11_c/21.jpg">img11_c/21.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/21.jpg</imageurl>
+	<image thumb="img11_c/22.jpg">img11_c/22.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/22.jpg</imageurl>
+	<image thumb="img11_c/23.jpg">img11_c/23.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/23.jpg</imageurl>
+	<image thumb="img11_c/24.jpg">img11_c/24.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/24.jpg</imageurl>
+	<image thumb="img11_c/25.jpg">img11_c/25.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/25.jpg</imageurl>
+	<image thumb="img11_c/26.jpg">img11_c/26.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/26.jpg</imageurl>
+	<image thumb="img11_c/27.jpg">img11_c/27.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/27.jpg</imageurl>
+	<image thumb="img11_c/28.jpg">img11_c/28.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/28.jpg</imageurl>
+	<image thumb="img11_c/29.jpg">img11_c/29.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/29.jpg</imageurl>
+	<image thumb="img11_c/30.jpg">img11_c/30.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/30.jpg</imageurl>
+	<image thumb="img11_c/31.jpg">img11_c/31.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/31.jpg</imageurl>
+	<image thumb="img11_c/32.jpg">img11_c/32.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/32.jpg</imageurl>
+	<image thumb="img11_c/33.jpg">img11_c/33.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/33.jpg</imageurl>
+	<image thumb="img11_c/34.jpg">img11_c/34.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/34.jpg</imageurl>
+	<image thumb="img11_c/35.jpg">img11_c/35.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/35.jpg</imageurl>
+	<image thumb="img11_c/36.jpg">img11_c/36.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/36.jpg</imageurl>
+	<image thumb="img11_c/37.jpg">img11_c/37.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/37.jpg</imageurl>
+	<image thumb="img11_c/38.jpg">img11_c/38.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/38.jpg</imageurl>
+	<image thumb="img11_c/39.jpg">img11_c/39.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/39.jpg</imageurl>
+	<image thumb="img11_c/40.jpg">img11_c/40.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/40.jpg</imageurl>
+	<image thumb="img11_c/41.jpg">img11_c/41.jpg</image>
+		<captiontext>Premio Arte e Cultura La Bagnaia 2011</captiontext>
+		<imageurl popupwidth="800" popupheight="520">img11_c/41.jpg</imageurl>
+
+
+	
+
+</gallery>
