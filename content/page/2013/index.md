@@ -3,8 +3,7 @@ date = 2013-05-22T12:59:38+02:00
 +++
 ### ASSOCIAZIONE CULTURALE ATTILIO MONTI
 
-<img src="/img/pac2013.jpg" alt="Marisa Monti Riffeser ed  Emma Marcegaglia." width="420"/>
-Marisa Monti Riffeser ed  Emma Marcegaglia.
+<img src="/img/pac2013.jpg" width="420"/>
 
 L’Associazione Culturale Attilio Monti non ha scopo di lucro e persegue scopi culturali.
 In particolare l’Associazione ha per oggetto la promozione di attività culturali legate al mondo dell’arte,

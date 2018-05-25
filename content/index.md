@@ -4,7 +4,6 @@ date = 2015-05-22T12:59:38+02:00
 ### ASSOCIAZIONE CULTURALE ATTILIO MONTI
 
 <img src="/img/pac2015.jpg" alt="Andrea Ceccherini, Cesare Romiti, Marisa Monti Riffeser ed Ernesto Mauri." width="420"/>
-Andrea Ceccherini, Cesare Romiti, Marisa Monti Riffeser ed Ernesto Mauri.
 
 
 L’Associazione Culturale Attilio Monti non ha scopo di lucro e persegue scopi culturali.

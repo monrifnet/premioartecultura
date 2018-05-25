@@ -1,12 +1,12 @@
 +++
-title = "Cerimonia"
+title = "Ospiti"
 date = 2011-05-24T10:39:02+02:00
 [menu.2011]
 weight = 7
 +++
-## PREMIO ARTE E CULTURA EDIZIONE 2015
+## PREMIO ARTE E CULTURA EDIZIONE 2011
 
-### Cerimonia
+### Ospiti
 
 <img src="/img/cerimonia_2011_1.jpg" width="420"/>
 <img src="/img/cerimonia_2011_2.jpg" width="420"/>
