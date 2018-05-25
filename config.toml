@@ -18,41 +18,41 @@ title = "Premio Arte e Cultura 'La Bagnaia'"
      name = "Edizione 2011"
      url = "/2011/"
      weight = 3
-#  [[menu.archive]]
-#    identifier = "2009"
-#    name = "Edizione 2009"
-#    url = "/2009/"
-#    weight = 4
-#  [[menu.archive]]
-#    identifier = "2008"
-#    name = "Edizione 2008"
-#    url = "/2008/"
-#    weight = 5
-#  [[menu.archive]]
-#    identifier = "2007"
-#    name = "Edizione 2007"
-#    url = "/2007/"
-#    weight = 6
-#  [[menu.archive]]
-#    identifier = "2006"
-#    name = "Edizione 2006"
-#    url = "/2006/"
-#    weight = 7
-#  [[menu.archive]]
-#    identifier = "2005"
-#    name = "Edizione 2005"
-#    url = "/2005/"
-#    weight = 8
-#  [[menu.archive]]
-#    identifier = "2004"
-#    name = "Edizione 2004"
-#    url = "/2004/"
-#    weight = 9
-#  [[menu.archive]]
-#    identifier = "2003"
-#    name = "Edizione 2003"
-#    url = "/2003/"
-#    weight = 10
+  [[menu.archive]]
+    identifier = "2009"
+    name = "Edizione 2009"
+    url = "/2009/"
+    weight = 4
+  [[menu.archive]]
+    identifier = "2008"
+    name = "Edizione 2008"
+    url = "/2008/"
+    weight = 5
+  [[menu.archive]]
+    identifier = "2007"
+    name = "Edizione 2007"
+    url = "/2007/"
+    weight = 6
+  [[menu.archive]]
+    identifier = "2006"
+    name = "Edizione 2006"
+    url = "/2006/"
+    weight = 7
+  [[menu.archive]]
+    identifier = "2005"
+    name = "Edizione 2005"
+    url = "/2005/"
+    weight = 8
+  [[menu.archive]]
+    identifier = "2004"
+    name = "Edizione 2004"
+    url = "/2004/"
+    weight = 9
+  [[menu.archive]]
+    identifier = "2003"
+    name = "Edizione 2003"
+    url = "/2003/"
+    weight = 10
   [[menu.extra]]
     identifier = "attiliomonti" 
     name = "Attilio Monti" 
