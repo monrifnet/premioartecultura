@@ -18,4 +18,3 @@ ha richiesto e ottenuto i Patrocini di:
 * Presidenza del Consiglio dei Ministri
 * Ministero degli Affari Esteri  e della Cooperazione Internazionale
 * Ministero dello Sviluppo Economico
-* Fondazione Mearelli per il Progresso Sociale![](/uploads/Selection_082.png)
